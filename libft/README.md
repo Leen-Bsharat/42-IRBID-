@@ -1,4 +1,4 @@
-*This activity has been created as part of the 42 curriculum by lbsharat.*
+*This activity has been created as part of the 42 curriculum by Leen Bsharat.*
 
 # Libft - Your Very First C Library
 
